@@ -10,8 +10,8 @@ machine:
 
   # Override /etc/hosts
   hosts:
-    circlehost: 127.0.0.1
-    dev.mycompany.com: 127.0.0.1
+    # circlehost: 127.0.0.1
+    # dev.mycompany.com: 127.0.0.1
 
   # Add some environment variables
   environment:
@@ -33,7 +33,7 @@ database:
 ## Customize test commands
 test:
   post:
-    - mocha
+    # - mocha
 ## Customize deployment commands
 deployment:
 
