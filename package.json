@@ -58,7 +58,6 @@
     "jscoverage": "0.3.7",
     "karma": "canary",
     "karma-mocha": "*",
-    "karma-sauce-launcher": "git://github.com/embarkmobile/karma-sauce-launcher.git",
     "mocha": "1.8.2",
     "mocha-lcov-reporter": "0.0.1"
   },
