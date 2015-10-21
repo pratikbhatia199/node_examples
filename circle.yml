@@ -32,7 +32,7 @@ database:
 
 ## Customize test commands
 test:
-  post:
+  # post:
     # - mocha
 ## Customize deployment commands
 deployment:
